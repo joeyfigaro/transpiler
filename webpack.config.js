@@ -6,7 +6,6 @@ module.exports = {
     path: path.resolve(__dirname, 'build'),
     filename: 'bundled.js'
   },
-  mode: 'development',
   module: {
     rules: [
       {
