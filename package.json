@@ -18,5 +18,8 @@
     "babel-loader": "^8.0.5",
     "webpack": "^4.28.4",
     "webpack-cli": "^3.2.1"
+  },
+  "dependencies": {
+    "babel-core": "7.0.0-bridge.0"
   }
 }
